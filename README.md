@@ -1,4 +1,4 @@
-<img width="537" height="707" alt="image" src="https://github.com/user-attachments/assets/5041c3f2-3125-444d-a239-7bb3f0ee91c0" />
+<img width="698" height="739" alt="image" src="https://github.com/user-attachments/assets/0bdacd69-b914-442e-83f6-5bfef960f3e5" />
 
 # Nationwide 24-hour Floating Population Dataset for South Korea, 2022–2024
 
