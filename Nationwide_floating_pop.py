@@ -1,3 +1,11 @@
+"""
+Author: Siwoo
+Description:
+This script demonstrates how to compute and visualize nationwide floating population differences
+between specific hours using high-resolution (1 km) GeoTIFF datasets.
+
+"""
+
 import os
 import glob
 import numpy as np
