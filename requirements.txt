@@ -1,0 +1,12 @@
+# Numerical computation
+numpy>=1.24
+
+# Raster and GIS processing
+rasterio>=1.3
+geopandas>=0.13
+
+# Plotting
+matplotlib>=3.7
+
+# Utilities
+tqdm>=4.66
